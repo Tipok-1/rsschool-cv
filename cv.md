@@ -1,13 +1,11 @@
-##[rsschool-cv][rez]
+# Chaburko Timofei
 
-#Chaburko Timofei
-
-###My Contact info:
+### My Contact info:
 + __Phone:__ _+375(29) 553-92-54_
 + __E-mail:__ _tima.chaburko@mail.ru_
 + __Location:__ Brest Belarus
 ___
-###About Me:
+### About Me:
 
 I live and study in Belarus, in the city of Brest. I am a 3rd year student majoring in computer physics. I started learning programming 2.5 years ago. and now, it seems, I finally decided that I would work in the field of web development.
 
@@ -16,7 +14,7 @@ My interest in programming is due to the desire to develop in the field of IT an
 In this course, I want to deepen my understanding of Javascript and gain the knowledge necessary to get a job as a front-end developer. I think my biggest asset is my focus and learning.
 
 ___
-###Skills:
+### Skills:
 - HTML5, CSS3
 - JS
 - C++ (QT)
@@ -27,7 +25,7 @@ ___
 ### Education:
 `Brest State University named after A.S. Pushkin`
 ___
-###Code example:
+### Code example:
 ```javascript
     let images = document.querySelectorAll(".images");
     images.forEach(
@@ -75,8 +73,6 @@ ___
 2. __JavaScript__ Manual on [learnjavascript.ru ](https://learn.javascript.ru/)
 3. __CSS, HTML__ video course
 
-###Languages:
+### Languages:
 + English - A2
 + Russian - Native
-
-[rez]: ()
