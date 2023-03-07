@@ -16,10 +16,13 @@ In this course, I want to deepen my understanding of Javascript and gain the kno
 ___
 ### Skills:
 - HTML5, CSS3
-- JS
+- JS, TS(begginer level)
+- Webpack
+- React(begginer level)
+- Preprocessors SASS/SCSS
 - C++ (QT)
 - Git, GitHub
-- Adobe Photoshop, Adobe Premier Pro
+- Adobe Photoshop, Figma
 ___
 
 ### Education:
@@ -67,11 +70,14 @@ ___
 ___
 
 ### Courses:
-1. __C++__
+1. __JavaScript__ Manual on [learnjavascript.ru ](https://learn.javascript.ru/)
+2. __CSS, HTML__ video course
+3. __Typescript__ video course
+4. __RS SCHOOL__ course
+5. __C++__
     + C++ manual on [ravesli.com](https://ravesli.com/uroki-cpp/)
     + C++(QT) manual on [ravesli.com](https://ravesli.com/uroki-po-qt5/)
-2. __JavaScript__ Manual on [learnjavascript.ru ](https://learn.javascript.ru/)
-3. __CSS, HTML__ video course
+
 
 
 ### Languages:
