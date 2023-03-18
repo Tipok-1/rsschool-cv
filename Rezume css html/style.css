@@ -332,8 +332,11 @@ header{
     position: relative;
 }
 /*Education and courses*/
+.ed_and_language{
+ 
+}
 #courses_lan_contact{
-    height:500px;
+    height:auto;
     font-size: 24px;
 }
 hr{
@@ -343,13 +346,13 @@ hr{
     margin:50px 0 50px 0;
 }
 .courses_ed{
-    height:60%;
+    height:auto;
     display:flex;
     justify-content: space-between;
 }
 
 .contact{
-    height:30%;
+    height:auto;
 }
 .conntactUl{
     display: flex;
@@ -461,7 +464,6 @@ footer{
     }
     #courses_lan_contact{
         width:calc(100% - 20px);
-        height:650px;
         display: flex;
         flex-direction: column;
         justify-content: center;
